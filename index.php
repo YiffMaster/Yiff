@@ -6,6 +6,6 @@
 </head>
 <body>
 <iframe style="float: left;" src="https://discordapp.com/widget?id=298639734396289065&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
-<?php echo $_GET['textphp']; ?>
+<?php echo '1' ?>
 </body>
 </html>
